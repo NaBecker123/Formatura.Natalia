@@ -12,7 +12,7 @@ body {
 
 .cabeçalho {
     width: 80%;
-    margin: o auto;
+    margin: 0 auto;
 }
 
 header {
@@ -25,6 +25,10 @@ header {
 header h1 {
     text-align: center;
     font-size: 2.5rem;
+}
+img{
+width: 30%;
+
 }
 
 nav ul {
